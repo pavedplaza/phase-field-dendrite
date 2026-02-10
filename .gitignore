@@ -27,7 +27,6 @@ Desktop.ini
 simulation_data.mat
 simulation_data_*.mat
 probe_analysis_*.csv
-*.png
 *.jpg
 *.jpeg
 *.fig
@@ -38,16 +37,13 @@ results/*
 
 # Examples output
 examples/*.mat
-examples/*.png
 examples/*.jpg
 examples/*.csv
 
 # Example images and videos (large binary files)
-examples/images/*.png
 examples/images/*.jpg
 examples/images/*.jpeg
 examples/images/*.gif
-examples/videos/*.mp4
 examples/videos/*.avi
 examples/videos/*.mov
 
