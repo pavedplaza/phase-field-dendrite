@@ -21,14 +21,20 @@ An educational Concentration-phase-field method implementation perfect for PFM b
 ### Example 1: Basic Dendritic Growth
 
 ![Basic Growth Example](examples/images/basic_growth_preview.png)
-*Video: [basic_growth_combined.mp4](examples/videos/basic_growth_combined.mp4) - Combined view of phase, concentration, and C/C∞ fields*
+*Video: Combined view of phase, concentration, and C/C∞ fields*
+
+<video src="https://github.com/user-attachments/assets/6628695f-00f5-48e8-8ad1-93370805df96" controls="controls" width="100%"></video>
 
 Six-fold symmetric dendrite growing from a central seed. The video shows simultaneous evolution of three fields in subplots.
 
 ### Example 2: Velocity Field Effects
 
 ![Velocity Field Example](examples/images/velocity_field_preview.png)
-*Videos: [velocity_field_combined.mp4](examples/videos/velocity_field_combined.mp4) - Combined fields, [velocity_field_contour.mp4](examples/videos/velocity_field_contour.mp4) - Streamlines with velocity magnitude background*
+*Videos: Combined fields, Streamlines with velocity magnitude background*
+
+<video src="https://github.com/user-attachments/assets/6e780264-69dc-40a3-af7b-bf80946dcc0e" controls="controls" width="100%"></video>
+
+<video src="https://github.com/user-attachments/assets/77b1f14a-9711-406f-befa-d10c1243ebac" controls="controls" width="100%"></video>
 
 Dendrite growing under uniform flow (forced convection). The flow breaks the six-fold symmetry and creates asymmetric growth patterns:
 - **Upstream side**: Fresh fluid brings lower solute concentration → **Faster growth**
