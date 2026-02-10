@@ -132,39 +132,6 @@ Before pushing to GitHub, ensure:
   - [ ] Contributing guidelines exist
     贡献指南存在
 
-## Repository Settings | 仓库设置
-
-After creating the repository on GitHub, configure these settings:
-在GitHub上创建仓库后，配置这些设置：
-
-### Recommended Settings | 推荐设置
-
-1. **Branch Protection | 分支保护**
-   - Go to Settings → Branches
-     转到Settings → Branches
-   - Add rule for `main` branch:
-     为`main`分支添加规则：
-     - Require pull request before merging (1 approval)
-       合并前需要拉取请求（1个批准）
-     - Require status checks to pass before merging
-       合并前需要状态检查通过
-
-2. **Issues | 问题**
-   - Enable issues
-     启用问题
-   - Use templates (already created in `.github/ISSUE_TEMPLATE/`)
-     使用模板（已在`.github/ISSUE_TEMPLATE/`中创建）
-
-3. **Pull Requests | 拉取请求**
-   - Enable pull requests
-     启用拉取请求
-   - Use template (already created as `.github/PULL_REQUEST_TEMPLATE.md`)
-     使用模板（已创建为`.github/PULL_REQUEST_TEMPLATE.md`）
-
-4. **License | 许可证**
-   - Add LICENSE file (recommended: MIT or GPL-3.0)
-     添加LICENSE文件（推荐：MIT或GPL-3.0）
-
 ## Workflow Overview | 工作流程概述
 
 ```
