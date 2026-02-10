@@ -1,0 +1,76 @@
+# MATLAB auto-save files
+*.asv
+
+# MATLAB compiled files
+*.mexw32
+*.mexw64
+*.mexmaci64
+*.mexlnx64
+*.mexa64
+
+# MATLAB temporary files
+*.mat
+*.slx
+*.mlx
+
+# OS generated files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+Desktop.ini
+
+# User-specific simulation results
+simulation_data.mat
+simulation_data_*.mat
+probe_analysis_*.csv
+*.png
+*.jpg
+*.jpeg
+*.fig
+
+# Results folder (keep folder but ignore contents)
+results/*
+!results/.gitkeep
+
+# Examples output
+examples/*.mat
+examples/*.png
+examples/*.jpg
+examples/*.csv
+
+# Example images and videos (large binary files)
+examples/images/*.png
+examples/images/*.jpg
+examples/images/*.jpeg
+examples/images/*.gif
+examples/videos/*.mp4
+examples/videos/*.avi
+examples/videos/*.mov
+
+# Logs and temporary files
+*.log
+*.tmp
+*~
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backup files
+*.bak
+*.backup
+*~
+
+# Version control
+/tags/
+.git/
+
+# Project-specific
+*.asv

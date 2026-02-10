@@ -1,0 +1,4 @@
+# This file keeps the results/ folder in git version control
+# The results folder will store simulation output data (which is gitignored)
+# 此文件保持results/文件夹在git版本控制中
+# results文件夹将存储模拟输出数据（已被gitignore忽略）
